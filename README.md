@@ -103,8 +103,6 @@ I’m open to working on:
 ## 📫 Contact
 
 * Email: **[mustapha.alameen@email.com](mailto:mustapha.alameen@email.com)**
-* LinkedIn: *Add your link*
-* Twitter: *Add your handle*
 
 ---
 
