@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Mustapha Alameen
+# 👋 Hello, I'm Mustofa Al-ameen Mustafa
 
 **Full Stack Engineer focused on building reliable, scalable, and production-ready software.**
 
