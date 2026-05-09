@@ -102,7 +102,7 @@ I’m open to working on:
 
 ## 📫 Contact
 
-* Email: **[mustapha.alameen@email.com](mailto:mustapha.alameen@email.com)**
+* Email: **[mustofaalameen54@gmail.com](mailto:mustofaalameen54@gmail.com)**
 
 ---
 
