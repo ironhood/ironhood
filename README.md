@@ -17,7 +17,7 @@ type Engineer = {
 };
 
 const mustapha: Engineer = {
-  name: "Mustapha Alameen",
+  name: "Mustofa Al-Ameen Mustafa",
   role: "Full Stack Engineer",
   focus: [
     "Scalable backend systems",
